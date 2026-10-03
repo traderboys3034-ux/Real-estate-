@@ -1,0 +1,6 @@
+{
+  "name": "Amanat Realty",
+  "description": "Explore property buying and selling opportunities with Amanat Realty in Kolkata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
